@@ -1,0 +1,108 @@
+{
+  "categories": [
+    "BRANDS",
+    "STYLES",
+    "BECOME A BUYER",
+    "BECOME A SELLER"
+  ],
+  "BRANDS": {
+    "id": "",
+    "url": "brands",
+    "sub-sections": [
+      {
+        "title": "Gift Ideas",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      }
+    ],
+    "featured": {}
+  },
+ "STYLES": {
+    "id": "",
+    "url": "styles",
+    "sub-sections": [
+      {
+        "title": "Gift Ideas",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      }
+    ],
+    "featured": {}
+  },
+ "BECOME A BUYER": {
+    "id": "",
+    "url": "pages/become-a-buyer",
+    "sub-sections": [
+      {
+        "title": "Gift Ideas",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      }
+    ],
+    "featured": {}
+  },
+ "BECOME A SELLER": {
+    "id": "",
+    "url": "pages/become-a-seller",
+    "sub-sections": [
+      {
+        "title": "Gift Ideas",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      },
+      {
+        "title": "Accessories",
+        "id": "",
+        "sub-categories": [
+        ]
+      }
+    ],
+    "featured": {}
+  }
+}

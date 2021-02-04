@@ -1,0 +1,114 @@
+{
+  "Global Optics": {
+    "personal": {
+      "title": "TRENDING",
+      "categories": [
+        {
+          "detail": "RECTANGLE",
+          "src": "https://media.graphcms.com/iX5J9IK1Rml8qpY0eCXQ",
+          "url": "#"
+        },
+        {
+          "detail": "CLUBMASTER",
+          "src": "https://media.graphcms.com/6b5uJEaySkeujn7Dbppa",
+          "url": "#"
+        },
+        {
+          "detail": "AVIATOR",
+          "src": "https://media.graphcms.com/rIEWKGAuTKWSZAwkATJa",
+          "url": "#"
+        },
+        {
+          "detail": "ROUND",
+          "src": "https://media.graphcms.com/1zCBPc6yRveRmdi3Cdeb",
+          "url": "#"
+        }
+      ]
+    },
+    "bestSeller": {
+      "title": "BRANDS",
+      "categories": [
+        {
+          "detail": "NEARSITE OPTOMETRY",
+          "src": "https://media.graphcms.com/3TiJn2BWQ5mHsvBqXkuS",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "CLEAR OPTICS",
+          "src": "https://media.graphcms.com/xGbmUVo1SayfXR1h2ayb",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "CUSIC EYECARE",
+          "src": "https://media.graphcms.com/xEsWt3rQXiuUPEfmr1vj",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "OCCULAR",
+          "src": "https://media.graphcms.com/AZp0xyRFQkGIdBQhzGZ2",
+          "line1": "",
+          "url": "#"
+        }
+      ]
+    }
+  },
+  "Global Optics SG": {
+    "personal": {
+      "title": "TRENDING",
+      "categories": [
+        {
+          "detail": "RECTANGLE",
+          "src": "https://media.graphcms.com/iX5J9IK1Rml8qpY0eCXQ",
+          "url": "#"
+        },
+        {
+          "detail": "CLUBMASTER",
+          "src": "https://media.graphcms.com/6b5uJEaySkeujn7Dbppa",
+          "url": "#"
+        },
+        {
+          "detail": "AVIATOR",
+          "src": "https://media.graphcms.com/rIEWKGAuTKWSZAwkATJa",
+          "url": "#"
+        },
+        {
+          "detail": "ROUND",
+          "src": "https://media.graphcms.com/1zCBPc6yRveRmdi3Cdeb",
+          "url": "#"
+        }
+      ]
+    },
+    "bestSeller": {
+      "title": "BRANDS",
+      "categories": [
+        {
+          "detail": "NEARSITE OPTOMETRY",
+          "src": "https://media.graphcms.com/3TiJn2BWQ5mHsvBqXkuS",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "CLEAR OPTICS",
+          "src": "https://media.graphcms.com/xGbmUVo1SayfXR1h2ayb",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "CUSIC EYECARE",
+          "src": "https://media.graphcms.com/xEsWt3rQXiuUPEfmr1vj",
+          "line1": "",
+          "url": "#"
+        },
+        {
+          "detail": "OCCULAR",
+          "src": "https://media.graphcms.com/AZp0xyRFQkGIdBQhzGZ2",
+          "line1": "",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}
